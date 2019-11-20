@@ -1,0 +1,14 @@
+{
+  "name": "myaplication",
+  "version": "1.0.0",
+  "description": "prueba de express",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jose silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
